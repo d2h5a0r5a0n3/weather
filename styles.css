@@ -211,11 +211,11 @@ input[name="temp"]{
   
   .slick .slick-prev {
     left: -30px;
-    background-image: url('https://i.imgur.com/ao7qeXi.png');
+/*     background-image: url('https://i.imgur.com/ao7qeXi.png'); */
   }
   .slick .slick-next {
     right:-30px;
-    background-image: url('https://i.imgur.com/AhkEkP6.png');
+/*     background-image: url('https://i.imgur.com/AhkEkP6.png'); */
   }
 
   @media only screen and (max-width:778px){
